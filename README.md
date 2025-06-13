@@ -33,17 +33,18 @@
   ---
 
   <h2>📊 GitHub Statistikalar</h2>
-  
-  <div align="center">
-    <!-- Asosiy GitHub statistikalar -->
-    <a href="https://github-readme-stats.vercel.app/api?username=MuhammadIbrohim-dev&theme=radical&count_private=true&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIbrohim-dev&theme=radical&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-    </a>
-    <!-- Top Languages -->
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIbrohim-dev&layout=compact&theme=radical&count_private=true&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIbrohim-dev&layout=compact&theme=radical&count_private=true&hide_border=true" height="150" alt="Top Languages" />
-    </a>
-  </div>
+
+<div align="center">
+  <!-- Asosiy GitHub statistikalar -->
+  <a href="https://github-readme-stats.vercel.app/api?username=DrStoun955&theme=radical&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=DrStoun955&theme=radical&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  </a>
+  <!-- Top Languages -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DrStoun955&layout=compact&theme=radical&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrStoun955&layout=compact&theme=radical&count_private=true&hide_border=true" height="150" alt="Top Languages" />
+  </a>
+</div>
+
 
   <h2>📞 Murojaat</h2>
 
