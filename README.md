@@ -3,7 +3,7 @@
   <h1>👋 Assalomu alaykum! Men Muhammad Ibrohim</h1>
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&color=00BFFF&random=true&width=435&lines=Frontend+Dasturchi+%7C+React+%26+Next.js+Mutaxassisi;IT+Mentor+%7C+Linux+va+Django+Tajribasi" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&color=00BFFF&random=true&width=435&lines=Frontend+Dasturchi+%7C+React+%26+Next.js+Mutaxassisi;" alt="Typing SVG" />
     </a>
   </h3>
   
