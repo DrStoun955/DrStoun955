@@ -48,13 +48,10 @@
 
   <p>
     <a href="mailto:ibrohimdev01@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ibrohimdev01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-6093977%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://t.me/Muhammad_IbrohimDev">
-      <img src="https://img.shields.io/badge/Telegram-%40Muhammad__IbrohimDev-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/muhammad-ibrohimdev/">
-      <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ibrohim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-%40DrStounDev-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </p>
   
