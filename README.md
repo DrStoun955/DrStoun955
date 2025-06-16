@@ -25,10 +25,8 @@
   <h2>🧰 Texnologiyalar</h2>
   
   <!-- 1-qator -->
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react," alt="Skills" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,figma,vscode" alt="Skills" />
   <br/><br/>
-  <!-- 2-qator -->
-  <img align="center" src="https://skillicons.dev/icons?i=figma,vscode" alt="Skills" />
 
   ---
 
