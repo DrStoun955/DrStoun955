@@ -8,8 +8,8 @@
   </h3>
   
   <p align="center" style="max-width: 600px; margin: 0 auto;"> 
-    Men <b>Digital City</b> kompaniyasida Frontend boʻyicha <b>mentor</b> sifatida ishlayman.  
-    Dasturlash va texnologiyalar sohasida yangiliklar, tajribalarim va bilimlarimni bloglar va ijtimoiy tarmoqlar orqali ulashishga harakat qilaman.
+    Men <b>Ilk Group</b> nomli kichik guruhda <b>Frontend</b> dasturchi sifatida amaliyotchi bo'lib ishlaganman.  
+    Dasturlash va texnologiyalar sohasida yangiliklar, tajribalarim va bilimlarimni yanada oshirmoqchiman.
   </p>
 
   ---
@@ -17,7 +17,7 @@
   <h2>🧑‍💻 Men haqimda qisqacha</h2>
   
   <p align="justify" style="max-width: 600px; margin: 0 auto;">
-    Men frontend sohasida HTML, CSS, JavaScript, React kabi texnologiyalar bilan ishlash tajribasiga egaman. Talabalarimga zamonaviy frontend jarayonlarini oʻrgatish orqali o'z bilimlarimni ulashishga intilaman. Kelajakda Node.js, Express.js va backend dasturlash bo‘yicha chuqurroq bilim olishni maqsad qilganman. Shu bilan birga, DevOps va Linux sohasidagi tajribamni ham rivojlantirishni rejalashtirmoqdaman.
+    Men frontend sohasida HTML, CSS, JavaScript, React kabi texnologiyalar bilan ishlash tajribasiga egaman. Frontend texnologiyalarini chuqur o‘rganib, o‘z loyihalarimda amaliyot orqali mustahkamlab boryapman.       Hozirda React, JavaScript va veb-interfeyslar bilan ishlashni davom ettirmoqdaman. Kelgusida esa backend yo‘nalishida Node.js, Express.js bilan chuqurroq shug‘ullanishni va DevOps hamda Linux tizimlari      bo‘yicha bilimlarimni kengaytirishni rejalashtiryapman.
   </p>
 
   ---
